@@ -1,0 +1,13 @@
+# Graph Coloring and Exam Timetable Scheduling
+
+## Objective
+To understand graph coloring and its application in exam timetable scheduling.
+
+## Graph Coloring
+Graph coloring is the process of assigning colors to vertices of a graph so that no two adjacent vertices have the same color.
+
+## Application
+Graph coloring can be used to prepare exam timetables by assigning exams with common students to different time slots.
+
+## Project Goal
+To develop a simple exam timetable scheduling system using the graph coloring technique.
